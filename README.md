@@ -1,2 +1,8 @@
-# typescript-kata-starter
-A simple starter codebase to practice katas using typescript
+# Typescript Kata Starter Codebase
+
+A simple starter codebase to practice Katas using typescript using: 
+
+- Node & npm
+- Typescript
+- Jest 
+- ts-jest
