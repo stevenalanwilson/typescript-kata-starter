@@ -4,7 +4,9 @@
   "description": "A simple starter codebase to practice Katas using typescript",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch-test": "jest --watch",
+    "watch-ts": "tsc -w"
   },
   "repository": {
     "type": "git",
